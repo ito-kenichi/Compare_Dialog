@@ -1,9 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Xamarin.Forms;
 
 namespace xamarin.forms_project
@@ -13,6 +8,13 @@ namespace xamarin.forms_project
         public MainPage()
         {
             InitializeComponent();
+
+        }
+
+        async void OnButtonClicked(object sender, EventArgs args)
+        {
+            var result = await DisplayAlert("AlertDialog", "アラートダイアログです。YesかNoを選択してください。", "Yes", "No");
+            label.Text = (result) ? "Yes" : "No";
         }
     }
 }

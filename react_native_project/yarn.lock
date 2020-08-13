@@ -4403,6 +4403,11 @@ react-native-safe-area-context@~3.0.7:
   resolved "https://registry.yarnpkg.com/react-native-safe-area-context/-/react-native-safe-area-context-3.0.7.tgz#0f53de7a30d626d82936000f3f6db374ecc4b800"
   integrity sha512-dqhRTlIFe5+P1yxitj0C9XVUxLqOmjomeqzUSSY8sNOWVjtIhEY/fl4ZKYpAVnktd8dt3zl13XmJTmRmy3d0uA==
 
+react-native-simple-dialogs@^1.3.0:
+  version "1.3.0"
+  resolved "https://registry.yarnpkg.com/react-native-simple-dialogs/-/react-native-simple-dialogs-1.3.0.tgz#d6fd7b86fb24b92d6324acb10e9eeb50b42c0c4f"
+  integrity sha512-xe1dAcDXXypwecy5PUicfgPColkV5PRbITGK6TcYmt/s4D4cVmaiPzVkexDXoJHzQN6qLWQt0gXFjmOHmboWzQ==
+
 react-native-web@~0.11.7:
   version "0.11.7"
   resolved "https://registry.yarnpkg.com/react-native-web/-/react-native-web-0.11.7.tgz#d173d5a9b58db23b6d442c4bc4c81e9939adac23"

@@ -1,5 +1,9 @@
 # Flutter, React Native, Xamarin.Formsの比較
 
+参考URL
+https://flutter.ctrnost.com/basic/dialogs/simpledialog/
+https://qiita.com/zaburo/items/a60cc995f3cad7c0c25a
+
 ## ローカル画像を３枚表示する
 ### https://github.com/ito-kenichi/Compare_VirewImage
 * Flutter：済
